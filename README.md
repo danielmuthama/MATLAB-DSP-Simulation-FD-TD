@@ -1,5 +1,5 @@
 #### Digital-signal-processing-MATLAB-simulation-in-frequency-and-time-domain-
-![Screenshot](1.j.jpg)
+![Screenshot](Asset/1.j.jpg)
 ![Screenshot](10.jpg)
 ![Screenshot](1000.png)
 ![Screenshot](11.jpg)
@@ -15,7 +15,7 @@
 ![Screenshot](2000.png)
 ![Screenshot](2121.png)
 ![Screenshot](2jpg.jpg)
-![Screenshot]3000.png)
+![Screenshot](3000.png)
 ![Screenshot](3jpg.jpg)
 ![Screenshot](shot.png)
 ![Screenshot](4jpg.jpg)
